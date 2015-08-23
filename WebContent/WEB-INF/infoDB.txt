@@ -1,0 +1,3 @@
+jdbc:mysql://localhost:3306/ProjectNews
+root
+1234p

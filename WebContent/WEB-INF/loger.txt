@@ -1,0 +1,143 @@
+24 мая 2014 17:18:03.605 [INFO] - Connection is created
+24 мая 2014 17:18:03.613 [INFO] - Statement getListNews executed
+24 мая 2014 17:18:35.776 [INFO] - Connection is created
+24 мая 2014 17:18:35.782 [INFO] - Statement getNews executed
+24 мая 2014 17:18:41.256 [INFO] - Statement getNews executed
+24 мая 2014 17:18:48.675 [INFO] - Statement updateNews executed
+24 мая 2014 17:18:48.686 [INFO] - Statement getListNews executed
+24 мая 2014 17:18:53.705 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:22:54.564 [INFO] - Connection is created
+24 мая 2014 17:22:54.571 [INFO] - Statement getUser executed
+24 мая 2014 17:22:54.571 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:22:54.571 [INFO] - User enter the system - ala
+24 мая 2014 17:22:54.600 [INFO] - Statement getListNews executed
+24 мая 2014 17:22:56.215 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:22:58.746 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:23:01.893 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:02.814 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:04.206 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:05.990 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:51.222 [INFO] - Connection is created
+24 мая 2014 17:23:51.230 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:51.357 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:52.654 [INFO] - Statement getListNews executed
+24 мая 2014 17:23:53.407 [INFO] - Statement getListNews executed
+24 мая 2014 17:24:40.847 [INFO] - Connection is created
+24 мая 2014 17:24:40.855 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:40.867 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:42.525 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:43.100 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:45.295 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:48.704 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:51.236 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:24:53.594 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:52.652 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:53.243 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:53.582 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:54.186 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:57.261 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:25:59.231 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:26:01.921 [INFO] - Connection is created
+24 мая 2014 17:27:07.894 [INFO] - Connection is created
+24 мая 2014 17:27:07.901 [INFO] - Statement getUser executed
+24 мая 2014 17:27:07.902 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:27:07.902 [INFO] - User enter the system - ala
+24 мая 2014 17:27:07.924 [INFO] - Statement getListNews executed
+24 мая 2014 17:27:16.943 [INFO] - Statement getUser executed
+24 мая 2014 17:27:16.943 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:27:16.944 [INFO] - User enter the system - ala
+24 мая 2014 17:27:16.969 [INFO] - Statement getListNews executed
+24 мая 2014 17:27:29.613 [INFO] - Connection is created
+24 мая 2014 17:27:29.616 [INFO] - Statement getUser executed
+24 мая 2014 17:27:29.616 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:27:29.616 [INFO] - User enter the system - ala
+24 мая 2014 17:27:29.628 [INFO] - Statement getListNews executed
+24 мая 2014 17:28:35.750 [INFO] - Connection is created
+24 мая 2014 17:28:35.757 [INFO] - Statement getUser executed
+24 мая 2014 17:28:35.758 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:28:35.758 [INFO] - User enter the system - ala
+24 мая 2014 17:28:35.781 [INFO] - Statement getListNews executed
+24 мая 2014 17:28:48.823 [INFO] - Statement getNews executed
+24 мая 2014 17:28:50.701 [INFO] - Statement getNews executed
+24 мая 2014 17:28:53.767 [INFO] - Statement deleteNews executed
+24 мая 2014 17:28:53.771 [INFO] - Statement getListNews executed
+24 мая 2014 17:29:36.791 [INFO] - Statement addNews executed
+24 мая 2014 17:29:36.795 [INFO] - Statement getListNews executed
+24 мая 2014 17:30:56.507 [INFO] - Connection is created
+24 мая 2014 17:30:56.514 [INFO] - Statement getUser executed
+24 мая 2014 17:30:56.514 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:30:56.514 [INFO] - User enter the system - ala
+24 мая 2014 17:30:56.534 [INFO] - Statement getListNews executed
+24 мая 2014 17:30:58.410 [INFO] - Statement getNews executed
+24 мая 2014 17:31:57.375 [INFO] - Statement getNews executed
+24 мая 2014 17:32:22.427 [INFO] - Connection is created
+24 мая 2014 17:33:29.697 [INFO] - Connection is created
+24 мая 2014 17:33:29.713 [INFO] - Statement getUser executed
+24 мая 2014 17:33:29.714 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:33:29.714 [INFO] - User enter the system - ala
+24 мая 2014 17:33:29.745 [INFO] - Statement getListNews executed
+24 мая 2014 17:33:31.396 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:33:34.645 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:33:39.919 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:33:42.163 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:34:51.125 [INFO] - Connection is created
+24 мая 2014 17:34:51.131 [INFO] - Statement getUser executed
+24 мая 2014 17:34:51.131 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:34:51.131 [INFO] - User enter the system - ala
+24 мая 2014 17:34:51.158 [INFO] - Statement getListNews executed
+24 мая 2014 17:34:54.260 [INFO] - Statement getNews executed
+24 мая 2014 17:34:56.278 [INFO] - Statement getListNews executed
+24 мая 2014 17:34:57.260 [INFO] - Statement getListNews executed
+24 мая 2014 17:35:57.288 [INFO] - Connection is created
+24 мая 2014 17:35:57.295 [INFO] - Statement getUser executed
+24 мая 2014 17:35:57.295 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:35:57.295 [INFO] - User enter the system - ala
+24 мая 2014 17:35:57.316 [INFO] - Statement getListNews executed
+24 мая 2014 17:35:58.606 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:00.559 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:01.137 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:01.741 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:48.116 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:49.359 [INFO] - Statement getListNews executed
+24 мая 2014 17:36:51.419 [INFO] - Statement getListNews executed
+24 мая 2014 17:37:56.201 [INFO] - Connection is created
+24 мая 2014 17:37:56.209 [INFO] - Statement getUser executed
+24 мая 2014 17:37:56.209 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:37:56.209 [INFO] - User enter the system - ala
+24 мая 2014 17:37:56.231 [INFO] - Statement getListNews executed
+24 мая 2014 17:37:57.580 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:37:59.601 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 17:40:13.967 [INFO] - Connection is created
+24 мая 2014 17:40:13.974 [INFO] - Statement getUser executed
+24 мая 2014 17:40:13.974 [INFO] - Login completed successfully. Email and password matches
+24 мая 2014 17:40:13.974 [INFO] - User enter the system - ala
+24 мая 2014 17:40:13.996 [INFO] - Statement getListNews executed
+24 мая 2014 17:40:15.242 [INFO] - Statement getNewsOfDate executed
+24 мая 2014 17:40:18.511 [INFO] - Statement getNewsOfDate executed
+24 мая 2014 17:40:22.052 [INFO] - Statement getNewsOfCategory executed
+24 мая 2014 18:10:19.081 [INFO] - Connection is created
+24 мая 2014 18:10:19.093 [INFO] - Statement getListNews executed
+24 мая 2014 18:10:30.479 [INFO] - Statement getListNews executed
+24 мая 2014 18:11:28.033 [INFO] - Connection is created
+24 мая 2014 18:11:28.048 [INFO] - Statement getListNews executed
+24 мая 2014 18:12:17.262 [INFO] - Connection is created
+24 мая 2014 18:12:17.276 [INFO] - Statement getListNews executed
+24 мая 2014 18:23:51.925 [INFO] - Connection is created
+24 мая 2014 18:23:51.937 [INFO] - Statement getListNews executed
+24 мая 2014 18:24:29.750 [INFO] - Statement getNews executed
+24 мая 2014 18:24:32.145 [INFO] - Statement getNews executed
+24 мая 2014 18:26:25.314 [INFO] - Connection is created
+24 мая 2014 18:26:25.327 [INFO] - Statement getListNews executed
+24 мая 2014 18:26:25.946 [INFO] - Statement getNews executed
+24 мая 2014 18:26:27.983 [INFO] - Statement getNews executed
+15 сен 2014 14:04:17.927 [INFO] - Connection is created
+15 сен 2014 14:04:17.993 [INFO] - Login failed. This user does not exist.
+15 сен 2014 14:21:19.694 [INFO] - Statement getUser executed
+15 сен 2014 14:21:19.695 [INFO] - Login completed successfully. Email and password matches
+15 сен 2014 14:21:19.695 [INFO] - User enter the system - ala
+15 сен 2014 14:21:19.738 [INFO] - Statement getListNews executed
+15 сен 2014 14:22:15.633 [INFO] - Statement addNews executed
+15 сен 2014 14:22:15.645 [INFO] - Statement getListNews executed
+15 сен 2014 14:22:19.926 [INFO] - Statement getNewsOfCategory executed
+15 сен 2014 14:22:23.814 [INFO] - Statement getNews executed
+18 окт 2014 11:21:40.302 [ERROR] - by.epam.hostel.logic.CommandException: by.epam.hostel.dao.DaoException: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '12' for key 'PRIMARY'
